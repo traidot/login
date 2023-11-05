@@ -95,7 +95,7 @@ class _LoginPageState extends State<LoginPage> {
         Navigator.push(
           context,
           MaterialPageRoute(
-              builder: (context) => ResultPage("Email: ", "error")),
+              builder: (context) => const ResultPage("Email: ", "error")),
         );
       }
       // Check email
@@ -103,7 +103,7 @@ class _LoginPageState extends State<LoginPage> {
       Navigator.push(
         context,
         MaterialPageRoute(
-            builder: (context) => ResultPage("Email: ", userEmail)),
+            builder: (context) => ResultPage("Email: ", userEmail!)),
       );
     } on PlatformException catch (e) {
       print(e);

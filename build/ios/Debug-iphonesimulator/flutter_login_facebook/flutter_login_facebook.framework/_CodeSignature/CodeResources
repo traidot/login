@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/flutter_login_facebook.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		aUUKoLFhA9cTOBlyiPavlpDQ5iA=
+		pKprM8EIMf11Oh17kdqNVkAIvVs=
 		</data>
 		<key>Modules/flutter_login_facebook.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/flutter_login_facebook.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		JEkQxDcfcqBHGlN7BO2nHlJwIBQ=
+		yLpXUVKvAdmE35an6PFTgSCJ2sE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -112,7 +112,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CPXvW/R/Y24zpWvQmDKw+dnuTY8xa9N5e7pNj+j3ZqU=
+			1n12n7w7upzHMtb32HGaMr5FV4JMcVHjzCNB25Hgi9Y=
 			</data>
 		</dict>
 		<key>Modules/flutter_login_facebook.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -133,7 +133,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			K6JPqgOqc1usDzvVKXV7LcHbGXJb8QIiASsrNlPXh5Q=
+			LtFUsIrPwc6gyvCzxhTZfKgLrbNzpMm+S+uCXWDspH8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
