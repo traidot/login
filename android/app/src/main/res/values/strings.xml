@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kokoromil</string>
+    <string name="facebook_app_id">724037269617261</string>
+    <string name="fb_login_protocol_scheme">fb724037269617261</string>
+    <string name="facebook_client_token">6284e2a4565fc7cfc877e7371ea877dc</string>
+</resources>
