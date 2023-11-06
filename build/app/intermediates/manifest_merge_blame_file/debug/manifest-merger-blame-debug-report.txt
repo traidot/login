@@ -13,8 +13,8 @@
 13         to allow setting breakpoints, to provide hot reload, etc.
 14    -->
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->/Users/david/development/kokoromil/android/app/src/main/AndroidManifest.xml:56:5-66
-15-->/Users/david/development/kokoromil/android/app/src/main/AndroidManifest.xml:56:22-64
+15-->/Users/david/Documents/GitHub/login/android/app/src/main/AndroidManifest.xml:56:5-66
+15-->/Users/david/Documents/GitHub/login/android/app/src/main/AndroidManifest.xml:56:22-64
 16
 17    <queries>
 17-->[com.linecorp.linesdk:linesdk:5.8.1] /Users/david/.gradle/caches/transforms-3/c1ef39501893afd34d77bbb462d356df/transformed/jetified-linesdk-5.8.1/AndroidManifest.xml:9:5-19:15

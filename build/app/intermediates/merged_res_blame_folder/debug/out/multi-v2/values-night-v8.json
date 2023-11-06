@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/david/development/kokoromil/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/david/Documents/GitHub/login/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
